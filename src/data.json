@@ -1,0 +1,24 @@
+{
+  "preguntas": [
+    {
+      "id": 1,
+      "texto": "¿Esta es una pregunta ejemplo 1?"
+    },
+    {
+      "id": 2,
+      "texto": "¿Esta es una pregunta ejemplo 2?"
+    },
+    {
+      "id": 3,
+      "texto": "¿Esta es una pregunta ejemplo 3?"
+    },
+    {
+      "id": 4,
+      "texto": "¿Esta es una pregunta ejemplo 4?"
+    },
+    {
+      "id": 5,
+      "texto": "¿Esta es una pregunta ejemplo 5?"
+    }
+  ]
+}
